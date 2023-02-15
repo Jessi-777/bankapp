@@ -1,5 +1,7 @@
 # bankapp
 
+tech: node.js
+
 - As a user 
   - Create my account in app
   - Check balance of my account
